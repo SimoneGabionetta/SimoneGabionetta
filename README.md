@@ -1,18 +1,17 @@
+<h1>Hi, welcome!</h1>
 
+<h2>I'm Simone.</h2> 
 
-# Hi, welcome!
+<p>I am passionate about testing and quality and have extensive experience in quality in the healthcare audit sector and bring this combination and expertise to the area of ​​Software quality.</p>
 
-## I'm Simone.
+<p>I am currently dedicated to my second degree in Systems Analysis and Development, in addition to complementary courses.
+</p>
 
-I am passionate about testing and quality and have extensive experience in quality in the healthcare audit sector and bring this combination and expertise to the area of ​​Software quality.
+<p>Here you will find examples of codes that I developed with the aim of learning, developing my skills and sharing experiences.</p>  
 
-I am currently dedicated to my second degree in Systems Analysis and Development, in addition to complementary courses.
-
-Here you will find examples of codes that I developed with the aim of learning, developing my skills and sharing experiences.
-
-Web tools: HTML, CSS, React, API and database.
-Languages: Javascript and Java.
-Tests: manual and automated
+<p>Web tools: HTML, CSS, React, API and database.</p>
+<p>Languages: Javascript and Java.</p>
+<p>Tests: manual and automated</p>
 
 Connect with me!
 
