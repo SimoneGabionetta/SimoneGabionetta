@@ -2,18 +2,12 @@
 
 <h2>I'm Simone.</h2> 
 
-<p>I am passionate about testing and quality and have extensive experience in quality in the healthcare audit sector and bring this combination and expertise to the area of ​​Software quality.</p>
+<p> ISTQB Foundation Level certified professional, with experience in manual testing, focusing on identifying and resolving system failures. Proactive, I have effective communication skills and am able to work in a team to achieve common goals.</p>
 
-<p>I am currently dedicated to my second degree in Systems Analysis and Development, in addition to complementary courses.
-</p>
+<p> I have a great interest in the technological area and am committed to continuous learning to ensure high-quality solutions. I am deepening my experience in test automation, working with tools such as Selenium and Cucumber, in addition to having applied Gherkin and SQL concepts to the development of automated testing frameworks. </p>
 
-<p>Here you will find examples of codes that I developed with the aim of learning, developing my skills and sharing experiences.</p>  
-
-<p>Web tools: HTML, CSS, React, API and database.</p>
-<p>Languages: Javascript and Java.</p>
-<p>Tests: manual and automated</p>
-
-Connect with me!
+<p>Currently, I collaborated as a volunteer on an agile project as a Manual Tester, applying my knowledge in software testing on Web and Mobile platforms, using tools such as Jira. My transition to the technology area was based on my previous experience in audits, which developed critical skills such as attention to detail, analysis and collaboration with equipment. 
+Connect with me!</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smgabionetta/)
 
