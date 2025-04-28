@@ -1,14 +1,37 @@
-<h1>Hi, welcome!</h1>
+# Simone Gabionetta  
+**QA Engineer | Manual & Automation Testing Specialist**  
 
-<h2>I'm Simone.</h2> 
+## 👋 Introduction  
+Passionate about software quality with expertise in **manual testing** and growing experience in **test automation**. ISTQB-certified professional with a strong eye for detail and a collaborative approach to problem-solving.  
 
-<p> ISTQB Foundation Level certified professional, with experience in manual testing, focusing on identifying and resolving system failures. Proactive, I have effective communication skills and am able to work in a team to achieve common goals.</p>
+## 🔹 Core Competencies  
+✔ **Manual Testing** (Web & Mobile)  
+✔ **Test Automation** (Playwright, GitHub Actions)  
+✔ **API Testing** (Postman)  
+✔ **Agile Methodologies** (Scrum, Kanban)  
+✔ **Defect Tracking & Reporting** (Jira, Qase)  
+✔ **ISTQB Foundation Level Certified**  
 
-<p> I have a great interest in the technological area and am committed to continuous learning to ensure high-quality solutions. I am deepening my experience in test automation, working with tools such as Selenium and Cucumber, in addition to having applied Gherkin and SQL concepts to the development of automated testing frameworks. </p>
+## 🛠️ Technical Skills  
+### Testing Tools  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Qase](https://img.shields.io/badge/Qase-0056FF?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-<p>Currently, I collaborated as a volunteer on an agile project as a Manual Tester, applying my knowledge in software testing on Web and Mobile platforms, using tools such as Jira. My transition to the technology area was based on my previous experience in audits, which developed critical skills such as attention to detail, analysis and collaboration with equipment. 
+### Development Exposure  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-  <p>Connect with me!</p>
+### Version Control & CI/CD  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smgabionetta/)
+## 📌 Key Attributes  
+- **Analytical Thinker**: Strong problem-solving skills with attention to detail  
+- **Effective Communicator**: Bridges gaps between technical and non-technical stakeholders  
+- **Continuous Learner**: Actively expanding automation testing expertise  
+- **Team Player**: Collaborative approach in Agile environments  
 
+## 📞 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smgabionetta/)
