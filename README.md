@@ -1,6 +1,9 @@
 # Simone Gabionetta  
 **QA Engineer | Manual & Automation Testing Specialist**  
 
+
+![CTFL ISTQB](https://img.shields.io/badge/CTFL-ISTQB-007ACC?style=flat&logo=appveyor&logoColor=white)
+
 ## 👋 Introduction  
 Passionate about software quality with expertise in **manual testing** and growing experience in **test automation**. ISTQB-certified professional with a strong eye for detail and a collaborative approach to problem-solving.  
 
